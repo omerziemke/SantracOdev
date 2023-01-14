@@ -1,0 +1,24 @@
+Odev visual studio (2019) programında yapılmıştır
+
+Projenin indirileceği klasöre cmd ile geliniz
+Cmd ekranına aşağıdaki komutu kopyalayın ve yapıştırın sonra enter tuşuna basınız
+
+git clone https://github.com/omerziemke/SantracOdev.git
+
+Bu komut ile proje dosyasını indirmiş olduk
+
+
+1-)Visual studio dan yeni proje oluşturunuz
+
+2-)Yeni oluşturduğumuz projenin kaynak dosyalar altındaki cpp dosyasını siliniz(mainin bulunduğu dosyayı)
+
+3-)Sol üst köşede Dosya butonuna tıklayınız ve Aç kısmından Klasör seçiniz ve indirilen proje dosyasını seciniz (SantracOdev içindeki SantracPuanHesaplama seçilecek)
+
+4-)Kaynak dosyalar altında gelen Taslar.cpp icinde dosyayı okuduğumuz uzantı var bu uzantı yolunu indirilen dosya içinde 
+OrnekVeriler kasörünün içindeki .txt uzantılı dosyanın yollarından birini veriniz
+
+5-)Kaynak dosyalar altında gelen SantracPuanHesaplama.cpp açınız ve çalıştırınız
+
+
+
+
